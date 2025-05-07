@@ -20,7 +20,7 @@ Dynamic and results-driven developer with 8+ years of experience in building sca
 - Implemented Elasticsearch-based smart search; boosted search speed by 40%.
 - Created dashboards that improved executive decision-making by 50%.
 
-### 💼 Rebiana Telecommunication Co (2022 – 2023)
+### 💼 R Telecommunication Co (2022 – 2023)
 - Led development of ISP management platform (Symfony + React) for 10K+ users.
 - Built secure billing and authentication modules; reduced fraud by 35%.
 - Developed a Flask chatbot with Pinecone + OpenAI.
