@@ -8,20 +8,16 @@
 
 ## 🧠 About Me
 
-Dynamic and results-driven developer with 8+ years of experience in building scalable, secure, and high-performance applications. I specialize in Laravel, React, Fastify, and AI integration (RAG, OpenAI, Pinecone, etc.) — always focused on delivering clean code and optimized systems for real-world problems.
+Dynamic and results-driven developer with experience in building scalable, secure, and high-performance applications. I specialize in Laravel, React, Fastify, and AI integration (RAG, OpenAI, Pinecone, etc.) — always focused on delivering clean code and optimized systems for real-world problems.
 
 ---
 
 ## 🚀 Work Highlights
 
-### 💼 Bahu Libya Real Estate Co (2024 – Present)
-- Built a cross-platform property management system with Angular, Fastify, and MongoDB.
-- Integrated an AI RAG chatbot (LangChain + Pinecone), cutting support tickets by 60%.
-- Implemented Elasticsearch-based smart search; boosted search speed by 40%.
-- Created dashboards that improved executive decision-making by 50%.
 
-### 💼 R Telecommunication Co (2022 – 2023)
-- Led development of ISP management platform (Symfony + React) for 10K+ users.
+
+### 💼 medicateinc Co (2020 – 2023)
+- Led development of SP management platform (laravel + React) for 10K+ users.
 - Built secure billing and authentication modules; reduced fraud by 35%.
 - Developed a Flask chatbot with Pinecone + OpenAI.
 - Launched a WordPress-based landing system that tripled leads.
