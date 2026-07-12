@@ -1,75 +1,35 @@
-# 👋 Hi, I'm Mahmoud Khalifa
+# Hi, I'm Mahmoud Khalifa 👋
 
-**🎯 Senior Full-Stack Developer | AI-Driven Solutions Architect | System Optimization**  
-📍 Tripoli, Libya | 📫 mahmoud.khaliffaa@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mahmoudalhadi) • [GitHub](https://github.com/mahmoudkhalifa84)
+**AI Engineer — Computer Vision & LLM Systems**
+📍 Tripoli, Libya (remote-ready) · 📫 mahmoud.khaliffaa@gmail.com · [LinkedIn](https://www.linkedin.com/in/mahmoudkhalifa)
 
----
+I build production AI systems end-to-end — from model to deployment.
 
-## 🧠 About Me
+## 🔭 What I'm building now
 
-Dynamic and results-driven developer with experience in building scalable, secure, and high-performance applications. I specialize in Laravel, React, Fastify, and AI integration (RAG, OpenAI, Pinecone, etc.) — always focused on delivering clean code and optimized systems for real-world problems.
+**AI Video Surveillance Platform for Retail Loss Prevention** *(in development)*
+An on-premise platform that correlates POS transactions (voids, refunds, drawer events) with synchronized camera feeds to detect theft and generate automatic evidence packages.
 
----
+- Multi-camera RTSP ingestion → real-time CV inference (PyTorch, OpenCV, YOLO)
+- Rule engine + alerting + React dashboard, PostgreSQL backend
+- Designed for fully offline, on-premise deployment on commodity hardware
 
-## 🚀 Work Highlights
+*Technical write-up coming soon.*
 
+## 🧠 Selected AI work
 
+- **Bidirectional Sign Language Recognition** — sign-to-text and voice-to-sign pipelines combining computer vision and speech processing
+- **RAG Chatbot in production** — LangChain + Pinecone + OpenAI, deployed for customer support
+- **AI Video Stabilization** — deep-learning models for jitter reduction in handheld footage
+- **Quantum Image Processing for Brain Tumor Detection** — QIP + PyTorch hybrid applied to MRI classification
 
-### 💼 medicateinc Co (2020 – 2023)
-- Led development of SP management platform (laravel + React) for 10K+ users.
-- Built secure billing and authentication modules; reduced fraud by 35%.
-- Developed a Flask chatbot with Pinecone + OpenAI.
-- Launched a WordPress-based landing system that tripled leads.
+## 🛠️ Core stack
 
----
+**AI/ML:** Python · PyTorch · OpenCV · YOLO · Scikit-learn
+**LLM:** LangChain · RAG · Pinecone · OpenAI API
+**Backend:** Flask · FastAPI · Laravel · Fastify · PostgreSQL · Elasticsearch · Redis
+**Ops:** Docker · Linux · GitHub Actions · on-premise deployment
 
-## 📌 Key Projects
+## 📌 Background
 
-### 🧠 Quantum Brain Tumor Detection  
-> QIP + PyTorch hybrid model to classify MRI brain scans with 96% accuracy  
-[🔗 View Project](#) *(Add link to GitHub repo)*
-
-### 🤖 AI RAG Chatbot  
-> LangChain chatbot with vector memory (Pinecone + OpenAI)  
-[🔗 View Project](#)
-
-### 📊 Association Rule Miner  
-> Used Apriori and FP-Growth to extract actionable insights from sales data  
-[🔗 View Project](#)
-
-### 🎥 AI Video Stabilizer  
-> OpenCV-based ML model to reduce blur/jitter in handheld video streams  
-[🔗 View Project](#)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** PHP, JavaScript, Python, Java, TypeScript  
-**Frontend:** React, Angular, Inertia.js, Tailwind, Bootstrap, Ionic  
-**Backend:** Laravel, Fastify, Symfony, Flask, Express.js  
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase Realtime DB  
-**AI Tools:** LangChain, PyTorch, Scikit-learn, Pinecone, OpenCV  
-**DevOps & Tools:** Docker, GitHub Actions, CI/CD, Jira, REST APIs, Nginx, PM2  
-**Cloud Platforms:** Firebase, Heroku, DigitalOcean, Vercel
-
----
-
-## 🌍 Languages
-
-- Arabic: Native  
-- English: Professional Proficiency
-
----
-
-## 🧠 Soft Skills
-
-- Technical leadership & mentoring  
-- Agile methodology (SCRUM)  
-- Cross-functional collaboration  
-- Problem-solving under pressure  
-- Time management & delivery focus
-
----
-
+7+ years shipping software in telecom, healthcare, and e-commerce — full-stack roles that evolved into applied AI. Arabic (native), English (professional).
