@@ -1,7 +1,7 @@
 # Hi, I'm Mahmoud Khalifa 👋
 
 **AI Engineer — Computer Vision & LLM Systems**
-📍 Tripoli, Libya (remote-ready) · 📫 mahmoud.khaliffaa@gmail.com · [LinkedIn](https://www.linkedin.com/in/mahmoudkhalifa)
+📍 Tripoli, Libya (remote-ready) · 📫 mahmoud.khaliffaa@gmail.com · [LinkedIn](https://www.linkedin.com/in/mhamoudalhadi)
 
 I build production AI systems end-to-end — from model to deployment.
 
